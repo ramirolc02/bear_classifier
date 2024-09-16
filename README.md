@@ -1,6 +1,6 @@
 # 🐻 Bear Classifier
 
-A simple bear classifier built using **FastAI** to differentiate between **grizzly**, **black**, and **teddy bears**.
+A simple bear classifier built using **FastAI**.
 
 ### Features:
 - Detects whether a bear is a Grizzly, Black Bear, or Teddy Bear with a simple image input.
